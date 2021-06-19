@@ -1,0 +1,98 @@
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.exe
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.deps.json
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.runtimeconfig.json
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.runtimeconfig.dev.json
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.pdb
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csprojAssemblyReference.cache
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\Parametre.g.cs
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface_MarkupCompile.cache
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface_MarkupCompile.lref
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\Parametre.baml
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.g.resources
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.Resources.resources
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csproj.GenerateResource.cache
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.AssemblyInfoInputs.cache
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.AssemblyInfo.cs
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csproj.CopyComplete
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.dll
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.pdb
+C:\Users\Anis Fayçal YAGOUB\Desktop\New folder\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.genruntimeconfig.cache
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.exe
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.deps.json
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.runtimeconfig.json
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.runtimeconfig.dev.json
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\EasySave_Interface.pdb
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csprojAssemblyReference.cache
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\Parametre.g.cs
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface_MarkupCompile.cache
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface_MarkupCompile.lref
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\Parametre.baml
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.g.resources
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.Resources.resources
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csproj.GenerateResource.cache
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.AssemblyInfoInputs.cache
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.AssemblyInfo.cs
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csproj.CoreCompileInputs.cache
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.csproj.CopyComplete
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.dll
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.pdb
+D:\Documents\Ecole\3 ème année\2- Programmation Système\projet\Salvation\EasySave_Interface\EasySave_Interface\obj\Debug\netcoreapp3.1\EasySave_Interface.genruntimeconfig.cache
